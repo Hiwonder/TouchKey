@@ -1,0 +1,18 @@
+{
+    "name": "touchkey",
+    "version": "0.0.1",
+    "description": "Blocks for Hiwonder touch key",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/touchkey-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
